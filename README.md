@@ -43,7 +43,7 @@ Before you begin, ensure you have the following API keys:
 **1. Clone the repository and navigate to the project directory**
 ```bash
 git clone https://github.com/Arrush5/Sports-Rag-Chatbot.git
-cd Sports-Rag_Chatbot.git
+cd Sports-Rag-Chatbot.git
 ```
 **2. Set up a virtual environment (Optional but recommended)**
 ```bash
