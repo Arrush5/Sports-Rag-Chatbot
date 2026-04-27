@@ -24,7 +24,7 @@ Built with **Pinecone**, **Streamlit**, and **Google's Gemini 1.5 Flash**.
 
 ## Project Structure
 ```text
-day-10/
+Sports-Rag-Chatbot/
     ├── sports_details.py                      
     ├── chunk_data.py       
     ├── upload_to_pinecone.py           
@@ -42,8 +42,8 @@ Before you begin, ensure you have the following API keys:
 
 **1. Clone the repository and navigate to the project directory**
 ```bash
-https://gitlab.siamcomputing.com/siamcomputing-training/cet/machine-learning/ml-interns/2026/arrush/day-10.git
-cd day-10
+git clone https://github.com/Arrush5/Sports-Rag-Chatbot.git
+cd Sports-Rag_Chatbot.git
 ```
 **2. Set up a virtual environment (Optional but recommended)**
 ```bash
